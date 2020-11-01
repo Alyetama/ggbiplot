@@ -14,7 +14,7 @@ Installation
 
 ``` r
 library(devtools)
-install_github("Alyetama/ggbiplot")
+install_github("Alyetama/ggbiplot") # Forked
 ```
 
 Example Usage
